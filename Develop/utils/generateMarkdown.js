@@ -66,17 +66,17 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Installation
-  ${data.install}
+  ${data.installation}
   ## Usage
   ${data.usage}
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
-  ${data.contributing}
+  ${data.contributors}
   ## Tests
-  ${data.testing}
+  ${data.test}
   ## Questions?
   ### Reach me here: 
-  [${data.username}](https://github.com/${data.username})  
+  [${data.github}](https://github.com/${data.github})  
   ${data.email}
 `;
 }
