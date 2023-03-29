@@ -43,6 +43,10 @@ const questions = [
     {
         name: "email",
         message: "Enter your email:"
+    },
+    {
+        name: "fileName",
+        message: "What is the name of this file"
     }
 ];
 
@@ -53,7 +57,7 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.createPromptModule(questions).then(answers =>{
+    inquirer.prompt(questions).then(answers =>{
         writeToFile((answers.fileName),(generateMarkdown(answers)));
     });
 }
