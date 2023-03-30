@@ -8,7 +8,6 @@
   * [Usage](#usage)
   * [Contributors](#Contributors)
   * [Tests](#tests)
-  * [Questions?](#questions)
   ## License
   Read more about The Unlicense here:
   [The Unlicense](http://unlicense.org/)
