@@ -17,9 +17,9 @@
   ## Installation
   Download a zip of the code and run in software of choice
   ## Usage
-https://www.youtube.com/watch?v=BHmOEG2JLYs
   Use node ./ or node index.js in your terminal to start the code
-  ## Contributors
+https://www.youtube.com/watch?v=BHmOEG2JLYs
+  ## How to Contribute 
   N/A
   ## Tests
   Run the file in a terminal
