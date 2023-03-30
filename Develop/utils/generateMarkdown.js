@@ -57,7 +57,7 @@ function generateMarkdown(data) {
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [How to Contribute](#how-to-contribute)
+  * [Contributors](#Contributors)
   * [Tests](#tests)
   * [Questions?](#questions)
   ## License
@@ -69,12 +69,11 @@ function generateMarkdown(data) {
   ${data.installation}
   ## Usage
   ${data.usage}
-  ## How to Contribute 
+  ## Contributors
   ${data.contributors}
   ## Tests
   ${data.test}
-  ## Questions?
-  ### Reach me here: 
+  ### Contact Me: 
   [${data.github}](https://github.com/${data.github})  
   ${data.email}
 `;
