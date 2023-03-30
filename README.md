@@ -6,7 +6,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [How to Contribute](#how-to-contribute)
+  * [Contributors](#Contributors)
   * [Tests](#tests)
   * [Questions?](#questions)
   ## License
@@ -17,13 +17,13 @@
   ## Installation
   Download a zip of the code and run in software of choice
   ## Usage
-  Use node ./ or node index.js in your terminal to start the code
 https://www.youtube.com/watch?v=BHmOEG2JLYs
-  ## How to Contribute 
+  Use node ./ or node index.js in your terminal to start the code
+  ## Contributors
   N/A
   ## Tests
   Run the file in a terminal
-  ## Questions?
-  ### Reach me here: 
+
+  ### Contact Me: 
   [Matt-Bull1](https://github.com/Matt-Bull1)  
   mattbull33@gmail.com
